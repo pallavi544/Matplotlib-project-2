@@ -4,17 +4,17 @@ This project showcases a series of data visualizations created using Python's Ma
 
 **Visualizations Included:
 
-The notebook includes the following types of plots:
+*The notebook includes the following types of plots:
 
-Line Plot: Illustrates trends over a period or continuous data.
+*Line Plot: Illustrates trends over a period or continuous data.
 
-Bar Chart: Compares different categories or groups.
+*Bar Chart: Compares different categories or groups.
 
-Histogram: Shows the distribution of a dataset.
+*Histogram: Shows the distribution of a dataset.
 
-Pie Chart: Represents parts of a whole.
+*Pie Chart: Represents parts of a whole.
 
-Scatter Plot: Displays relationships between two variables.
+*Scatter Plot: Displays relationships between two variables.
 
 Each plot is accompanied by appropriate titles, labels, and legends to enhance clarity and comprehension.
 
