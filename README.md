@@ -66,8 +66,8 @@ pip install matplotlib jupyter
 jupyter notebook "Project 2.ipynb"
 
 ```
-## View the notebook online
-**[click
+## View the Notebook Online
+**[Click here to view the Jupiter Notebook online](https://github.com/pallavi544/Matplotlib-project-2/edit/main/README.md)**
 
 
 
