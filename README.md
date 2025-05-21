@@ -29,9 +29,47 @@ This project is a continuation of visual data exploration using Matplotlib, one 
 
 ## Tools and Technologies
 *Python	: Core programming language
+
 *Matplotlib	: Data visualization
+
 *Jupyter Notebook :	Interactive coding environment
 
-## Getting Started
+##  How to Run Locally
+1.Clone the repository:
+
+```bash
+
+git clone https://github.com/pallavi544/Matplotlib-project-2.git
+
+```
+
+2.Navigate to the directory:
+
+```bash
+
+cd Matplotlib-project-2
+
+```
+
+3.Install required packages:
+
+```bash
+
+pip install matplotlib jupyter
+
+```
+
+4.Run the notebook:
+
+```bash
+
+jupyter notebook "Project 2.ipynb"
+
+```
+
+
+
+
+
 
 
